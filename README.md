@@ -4,9 +4,15 @@
 
 Tahir Collection is a dedicated tubular stockinette manufacturer and exporter based in Faisalabad, Pakistan — supplying cotton, nylon, perlon, and fiberglass-compatible stockinette to distributors, importers, and OEM buyers across the globe.
 
+[![Visit Live Website](https://img.shields.io/badge/%F0%9F%8C%90%20Visit%20Live%20Website-tahircollection.com-2ea44f?style=for-the-badge)](https://tahircollection.com)
+
 [![Industry](https://img.shields.io/badge/industry-medical%20textiles-blue)]()
 [![Origin](https://img.shields.io/badge/made%20in-Pakistan-success)]()
 [![Export](https://img.shields.io/badge/export-worldwide-orange)]()
+
+### 🌐 Live Website: **[tahircollection.com](https://tahircollection.com)**
+
+Browse the full product catalog, request a quote, or order samples directly on the live site.
 
 ---
 
