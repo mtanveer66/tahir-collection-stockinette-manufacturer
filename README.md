@@ -126,6 +126,19 @@ Faisalabad, Punjab, Pakistan — exporting worldwide.
 
 ---
 
+## Website Developed By
+
+This website is designed and developed by **[Advenno](https://advenno.com)** — a software and AI development company.
+
+| Developer | Email | WhatsApp |
+|-----------|-------|----------|
+| **Muhammad Maaz** | [mazwaseem098@gmail.com](mailto:mazwaseem098@gmail.com) | [+92 323 7609712](https://wa.me/923237609712) |
+| **Muhammad Tanveer** | [mtanveertahir66@gmail.com](mailto:mtanveertahir66@gmail.com) | [+92 320 6688665](https://wa.me/923206688665) |
+
+Need a professional website or custom software for your business? Contact **[Advenno](https://advenno.com)**.
+
+---
+
 ## License
 
 © 2026 Tahir Collection. All rights reserved. This repository contains marketing and informational materials only. See [LICENSE](LICENSE) for terms.
