@@ -1,13 +1,11 @@
-# Images & Media
+# Screenshots
 
-This folder is for product photos and business media used in the showcase.
+Website screenshots used in the [main README](../README.md), captured from the live site at [tahircollection.com](https://tahircollection.com).
 
-Suggested images to add:
-- `cotton-stockinette.jpg` — cotton tubular stockinette product photo
-- `nylon-stockinette.jpg` — nylon tubular stockinette product photo
-- `fiberglass-stockinette.jpg` — fiberglass-compatible stockinette
-- `factory.jpg` — manufacturing facility
-- `size-range.jpg` — size range display
-- `packaging.jpg` — export packaging
-
-Once added, reference them in the main [README](../README.md) to make the showcase more compelling for distributors, importers, and OEM buyers.
+| File | Description |
+|------|-------------|
+| `homepage.png` | Homepage hero — tubular stockinette manufacturer & exporter, Faisalabad, Pakistan. |
+| `homepage-full.png` | Full homepage — product showcase, applications, export capability, and quality process. |
+| `products.png` | Products page — cotton, nylon, perlon, and fiberglass-compatible stockinette with a material guide. |
+| `applications.png` | Applications page — orthopedic casting, prosthetics, wound care, lymphedema, garment & apparel. |
+| `about.png` | About page — a dedicated tubular stockinette factory with export experience since 2009. |

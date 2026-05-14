@@ -10,6 +10,35 @@ Tahir Collection is a dedicated tubular stockinette manufacturer and exporter ba
 
 ---
 
+## Live Website Preview
+
+🌐 **Live site:** [tahircollection.com](https://tahircollection.com)
+
+### Homepage
+[![Tahir Collection homepage — tubular stockinette manufacturer and exporter from Faisalabad, Pakistan](screenshots/homepage.png)](screenshots/homepage.png)
+*Tubular stockinette manufacturer & exporter — cotton, nylon, perlon, and fiberglass-compatible, in sizes from 2 cm to 40 cm.*
+
+### Products
+[![Tahir Collection tubular stockinette products — cotton, nylon, perlon and fiberglass-compatible material comparison](screenshots/products.png)](screenshots/products.png)
+*The full tubular stockinette range, with a material guide showing which material fits which application.*
+
+### Applications
+[![Tahir Collection stockinette applications — orthopedic casting, prosthetics, wound care, lymphedema compression, garment and apparel](screenshots/applications.png)](screenshots/applications.png)
+*Industry applications: orthopedic casting, prosthetics & orthotics, wound care & bandaging, lymphedema compression, and garment & apparel.*
+
+### About
+[![About Tahir Collection — dedicated tubular stockinette factory in Faisalabad, Pakistan](screenshots/about.png)](screenshots/about.png)
+*One factory, one product, every size — a dedicated tubular stockinette manufacturer with export experience since 2009.*
+
+<details>
+<summary>📄 View full homepage screenshot</summary>
+
+[![Tahir Collection full homepage — tubular stockinette manufacturer website](screenshots/homepage-full.png)](screenshots/homepage-full.png)
+
+</details>
+
+---
+
 ## About Tahir Collection
 
 **Tahir Collection is a specialist tubular stockinette manufacturer and exporter.** With manufacturing experience since 2009, we produce medical-grade and industrial-grade tubular stockinette in a full range of sizes and materials, and we export to buyers worldwide.
