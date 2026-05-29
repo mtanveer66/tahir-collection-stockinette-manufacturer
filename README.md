@@ -1,5 +1,35 @@
 # Tahir Collection — Tubular Stockinette Manufacturer & Exporter
 
+<!-- recruiter-snapshot:start -->
+## Recruiter Snapshot
+
+**What this shows:** B2B manufacturer/exporter website for tubular stockinette products, applications, and OEM export positioning.
+
+**My role / team role:** Built the case study around product structure, export messaging, application pages, and conversion-focused B2B web presentation.
+
+**Public proof:** Screenshots show homepage, products, applications, about page, full homepage, and live website link.
+
+**Tech and implementation areas:**
+- HTML/PHP-style website
+- SEO content
+- Product/application catalog
+- B2B manufacturer positioning
+- Responsive web UI
+
+**Relevant roles this project supports:**
+- Full-Stack Web Developer
+- B2B Website Developer
+- SEO Web Developer
+- Export Business Web Developer
+
+## Source Code Access
+
+This is a public case-study repository. The production source code is private because it may contain proprietary business logic, client workflows, credentials, deployment details, or reusable internal implementation patterns. The public repo is intentionally focused on the product, screenshots, workflow, architecture, and evaluation material.
+
+For technical review, we can provide a live demo walkthrough, private repository access under NDA, a code screen-share, architecture review, or redacted implementation samples.
+<!-- recruiter-snapshot:end -->
+
+
 > **Medical and industrial grade tubular stockinette, manufactured in Pakistan and exported worldwide.**
 
 Tahir Collection is a dedicated tubular stockinette manufacturer and exporter based in Faisalabad, Pakistan — supplying cotton, nylon, perlon, and fiberglass-compatible stockinette to distributors, importers, and OEM buyers across the globe.
